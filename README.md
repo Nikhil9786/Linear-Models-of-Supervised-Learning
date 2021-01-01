@@ -8,4 +8,4 @@ This assignment was completed under the course Introduction to Machine Learning(
 * **Problem 5** - Support Vector Machines Using Gradient Descent
 * **Problem 6** - Plotting decision boundaries
 
-All the problems are implementted in PA1_script.py
+All the problems are implementted in PA1Script.py
