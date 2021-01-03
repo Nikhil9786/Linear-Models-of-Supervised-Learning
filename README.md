@@ -1,4 +1,4 @@
-# Implementation of Simple Machine Learning Problems
+# Linear Models of Supervised Learning
 This assignment was completed under the course Introduction to Machine Learning(CSE574) in University at Buffalo
 
 * **Problem 1** - Linear Regression with Direct Minimization
